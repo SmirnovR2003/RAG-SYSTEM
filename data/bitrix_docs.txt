@@ -1,0 +1,71 @@
+Bitrix Documentation
+
+General Information
+-------------------
+
+Bitrix is a powerful platform for creating and managing websites and online stores. It provides a wide range of tools for content management, e-commerce, and business process automation.
+
+Key Features
+------------
+
+1. Content Management System (CMS)
+2. E-commerce capabilities
+3. Business process automation
+4. API for custom development
+5. Mobile applications
+6. Cloud-based solutions
+
+Common Modules
+--------------
+1. Main module (kernel)
+2. Fileman (file manager)
+3. IBLOCK (information blocks)
+4. SALE (e-commerce)
+5. CRM (customer relationship management)
+6. BLOG
+7. FORUM
+8. PHOTO
+9. SUBSCRIBE
+10. STATISTIC
+11. SEARCH
+12. SOCIALNETWORK
+13. TASKS
+14. TIMEMAN
+15. REPORT
+16. CATALOG
+17. CURRENCY
+18. ORDER
+19. USER
+20. GROUP
+21. LANG
+22. MESSAGE
+23. EVENT
+24. AGENT
+25. MAIN
+26. SECURITY
+27. PERFMON
+28. CONVERTER
+29. CLOUD
+30. PULL
+31. REST
+32. BIZPROC
+33. LANDING
+34. IM
+35. DISK
+36. DOCUMENTGENERATOR
+37. HLP
+38. UI
+39. SCOPE
+40. INTRANET
+41. MOBILEAPP
+42. PULL_REQUEST
+43. REPLICATION
+44. SALESCENTER
+45. UIKIT
+46. VOTE
+47. WEBCRM
+48. WORKFLOW
+
+API Usage
+---------
+Bitrix provides a comprehensive API for developers to extend and customize the platform. The API includes functions for working with users, content, e-commerce, and more.
